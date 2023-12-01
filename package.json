@@ -1,0 +1,17 @@
+{
+  "name": "dicoding-nodejs",
+  "version": "1.0.0",
+  "description": "This repository to store my assigment from dicoding class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "path": "^0.12.7"
+  }
+}
